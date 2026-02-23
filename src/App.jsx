@@ -1,14 +1,11 @@
 import { useState } from "react";
 
 import {
-  Paper,
-  Button,
   Snackbar
 } from "@mui/material";
 
 import "./App.css";
 
-import * as api from './util/api.js'
 
 import Header from "./components/Header.jsx";
 
@@ -23,27 +20,8 @@ function App() {
     setSnackbarVisible(true);
   }
 
-  let refreshDatabase = async () => {
-    try {
-      let result = await api.util.refreshDatabase();
-      if (result.ok) {
-        openSnackbar('Database refreshed');
-        let alerts = await api.alerts.getSearchData();
-        openSnackbar(`${alerts.length} alerts loaded`);
-      }
-    }
-    catch (e) {
-      console.error(e.message);
-      openSnackbar(e.message);
-    }
-  }
-
   return (<>
-    <Header appTitle='P1 MB'/>
-
-    <Paper elevation={4} sx={{ marginTop: "0.5em", padding: "1em" }}>
-      <Button variant="contained" onClick={refreshDatabase} >Refresh Database</Button>
-    </Paper>
+    <Header appTitle='P1 MB' log ={openSnackbar}/>
 
     <Snackbar
       open={snackbarVisible}

@@ -11,9 +11,25 @@ import {
 
 import MenuIcon from "@mui/icons-material/Menu";
 
+import * as api from "../util/api"
+
 const Header = (props) => {
 
 const [anchor, setAnchor] = useState(null);
+
+  let refreshDatabase = async () => {
+    try {
+      let result = await api.util.refreshDatabase();
+      if (result.ok) {
+        props.log('Database refreshed');
+        // window.location.reload(); // For later: forces a page refresh 
+      }
+    }
+    catch (e) {
+      console.error(e.message);
+      props.log(e.message);
+    }
+  }
 
   return (<>
     <AppBar position="sticky">
@@ -26,7 +42,12 @@ const [anchor, setAnchor] = useState(null);
           <MenuIcon />
         </IconButton>
         <Menu anchorEl={anchor} open={Boolean(anchor)} onClose={() => setAnchor(null)}>
-          <MenuItem>Refresh Database</MenuItem>
+            <MenuItem onClick={
+                async () => {
+                    setAnchor(null);
+                    await refreshDatabase();
+                }
+            }>Refresh Database</MenuItem>
         </Menu>
 
       </Toolbar >
