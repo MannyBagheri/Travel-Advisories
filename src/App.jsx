@@ -1,9 +1,6 @@
 import { useState } from "react";
 
 import {
-  AppBar,
-  Toolbar,
-  Typography,
   Paper,
   Button,
   Snackbar
@@ -12,6 +9,8 @@ import {
 import "./App.css";
 
 import * as api from './util/api.js'
+
+import Header from "./components/Header.jsx";
 
 function App() {
 
@@ -40,13 +39,8 @@ function App() {
   }
 
   return (<>
-    <AppBar position="sticky">
-      <Toolbar sx={{ display: "flex", justifyContent: "space-between" }}>
-        <Typography variant="h6">
-          INFO-3139 P1 ( Manny Bagheri )
-        </Typography>
-      </Toolbar >
-    </AppBar >
+    <Header appTitle='P1 M_Bagheri'/>
+
     <Paper elevation={4} sx={{ marginTop: "0.5em", padding: "1em" }}>
       <Button variant="contained" onClick={refreshDatabase} >Refresh Database</Button>
     </Paper>
