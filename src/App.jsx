@@ -5,28 +5,36 @@ import {
   Toolbar,
   Typography,
   Paper,
-  Button
+  Button,
+  Snackbar
 } from "@mui/material";
 
 import "./App.css";
 
 function App() {
 
-  let [log, setLog] = useState('');
+  // Snackbar State & Functions
+  const [snackbarVisible, setSnackbarVisible] = useState(false);
+  const [snackbarMessage, setSnackbarMessage] = useState('');
+  const closeSnackbar = () => setSnackbarVisible(false);
+  const openSnackbar = (text) => {
+    setSnackbarMessage(text);
+    setSnackbarVisible(true);
+  }
 
   let refreshDatabase = async () => {
     try {
       let result = await fetch("http://localhost:9000/db/refresh", { method: 'POST' });
       if (result.ok) {
-        setLog('Database refreshed');
+        openSnackbar('Database refreshed');
         result = await fetch("http://localhost:9000/alerts");
         let alerts = await result.json();
-        setLog(`${alerts.length} alerts loaded`);
+        openSnackbar(`${alerts.length} alerts loaded`);
       }
     }
     catch (e) {
       console.error(e.message);
-      setLog(e.message);
+      openSnackbar(e.message);
     }
   }
 
@@ -41,11 +49,13 @@ function App() {
     <Paper elevation={4} sx={{ marginTop: "0.5em", padding: "1em" }}>
       <Button variant="contained" onClick={refreshDatabase} >Refresh Database</Button>
     </Paper>
-    {
-      log && <Paper elevation={4} sx={{ marginTop: "0.5em", padding: "1em" }}>
-        {log}
-      </Paper>
-    }
+
+    <Snackbar
+      open={snackbarVisible}
+      autoHideDuration={5000}
+      onClose={closeSnackbar}
+      message={snackbarMessage}
+    />
   </>);
 };
 
