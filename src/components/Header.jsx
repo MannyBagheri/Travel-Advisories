@@ -15,14 +15,14 @@ import * as api from "../util/api"
 
 const Header = (props) => {
 
-const [anchor, setAnchor] = useState(null);
+  const [anchor, setAnchor] = useState(null);
 
   let refreshDatabase = async () => {
     try {
       let result = await api.util.refreshDatabase();
       if (result.ok) {
         props.log('Database refreshed');
-        // window.location.reload(); // For later: forces a page refresh 
+        window.location.reload(); // For later: forces a page refresh 
       }
     }
     catch (e) {
@@ -37,19 +37,17 @@ const [anchor, setAnchor] = useState(null);
         <Typography variant="h6">
           {props.appTitle}
         </Typography>
-
         <IconButton color="inherit" onClick={e => setAnchor(e.target)}>
           <MenuIcon />
         </IconButton>
         <Menu anchorEl={anchor} open={Boolean(anchor)} onClose={() => setAnchor(null)}>
-            <MenuItem onClick={
-                async () => {
-                    setAnchor(null);
-                    await refreshDatabase();
-                }
-            }>Refresh Database</MenuItem>
+          <MenuItem onClick={
+            async () => {
+              setAnchor(null);
+              await refreshDatabase();
+            }
+          }>Refresh Database</MenuItem>
         </Menu>
-
       </Toolbar >
     </AppBar >
   </>);
