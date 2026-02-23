@@ -6,8 +6,9 @@ import {
 
 import "./App.css";
 
-
 import Header from "./components/Header.jsx";
+
+import Home from "./components/Home.jsx";
 
 function App() {
 
@@ -22,7 +23,7 @@ function App() {
 
   return (<>
     <Header appTitle='P1 MB' log ={openSnackbar}/>
-
+    <Home log={openSnackbar}/>
     <Snackbar
       open={snackbarVisible}
       autoHideDuration={5000}
