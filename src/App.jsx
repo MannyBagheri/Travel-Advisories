@@ -11,6 +11,8 @@ import {
 
 import "./App.css";
 
+import * as api from './util/api.js'
+
 function App() {
 
   // Snackbar State & Functions
@@ -24,11 +26,10 @@ function App() {
 
   let refreshDatabase = async () => {
     try {
-      let result = await fetch("http://localhost:9000/db/refresh", { method: 'POST' });
+      let result = await api.util.refreshDatabase();
       if (result.ok) {
         openSnackbar('Database refreshed');
-        result = await fetch("http://localhost:9000/alerts");
-        let alerts = await result.json();
+        let alerts = await api.alerts.getSearchData();
         openSnackbar(`${alerts.length} alerts loaded`);
       }
     }
