@@ -39,7 +39,7 @@ function App() {
   }
 
   return (<>
-    <Header appTitle='P1 M_Bagheri'/>
+    <Header appTitle='P1 MB'/>
 
     <Paper elevation={4} sx={{ marginTop: "0.5em", padding: "1em" }}>
       <Button variant="contained" onClick={refreshDatabase} >Refresh Database</Button>
