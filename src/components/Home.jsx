@@ -1,8 +1,13 @@
 import { useState, useEffect } from "react";
 
 import {
-    Paper
+    Paper,
+    CardHeader,
+    CardContent,
 } from '@mui/material';
+
+
+import Search from "./Search";
 
 import logo from "../assets/target.png";
 //import logo from "../assets/airplane.png";
@@ -22,10 +27,14 @@ const Home = (props) => {
         loadAlerts();
   }, []);
 
-  
+
     return (<>
         <Paper elevation={4} sx={{ marginTop: "0.5em" }}>
             <img src={logo} style={{ width: "40%", maxWidth: "200px", margin: "1em" }} />
+            <CardHeader title="Travel Alerts" />
+            <CardContent>
+                <Search alerts={alerts} onSelection={selection => console.log(selection)} />
+            </CardContent>
         </Paper>
     </>);
 };
