@@ -21,6 +21,41 @@ const alerts = {
         let data = await response.json();
         return data;
     },
+
+    getOne: async (code) => {
+    let response = await fetch(serverRoute(`alerts/${code}`), {
+      headers,
+      method: 'GET'
+    });
+
+
+    if (!response.ok) return null;
+
+        let data = await response.json();
+        return data;
+    },
+
+    setBookmark: async (code, bookmarked) => {
+    let response = await fetch(serverRoute(`alerts/${code}/bookmark`), {
+      headers,
+      method: 'POST',
+      body: JSON.stringify({ bookmarked })
+    });
+
+    return response;
+  },
+
+  getBookmarks: async () => {
+    let response = await fetch(serverRoute("bookmarks"), {
+      headers,
+      method: 'GET'
+    });
+
+    if (!response.ok) return [];
+
+    let data = await response.json();
+    return data;
+  }
 }
 
 const util = {

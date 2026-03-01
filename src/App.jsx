@@ -25,6 +25,7 @@ function App() {
     <Header appTitle='P1 MB' log ={openSnackbar}/>
     <Home log={openSnackbar}/>
     <Snackbar
+      sx={{ zIndex: 99 }}
       open={snackbarVisible}
       autoHideDuration={5000}
       onClose={closeSnackbar}
