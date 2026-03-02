@@ -14,8 +14,20 @@ import MenuIcon from "@mui/icons-material/Menu";
 import * as api from "../util/api"
 
 const Header = (props) => {
-
   const [anchor, setAnchor] = useState(null);
+
+  const openMenu = (e) => setAnchor(e.currentTarget);
+  const closeMenu = () => setAnchor(null);
+
+  const goHome = () => {
+    props.setPage("home");
+    closeMenu();
+  };
+
+  const goBookmarks = () => {
+    props.setPage("bookmarks");
+    closeMenu();
+  };
 
   let refreshDatabase = async () => {
     try {
@@ -47,6 +59,8 @@ const Header = (props) => {
               await refreshDatabase();
             }
           }>Refresh Database</MenuItem>
+          <MenuItem onClick={goHome}>Home</MenuItem>
+          <MenuItem onClick={goBookmarks}>Bookmarks</MenuItem>
         </Menu>
       </Toolbar >
     </AppBar >

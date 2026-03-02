@@ -7,7 +7,7 @@ import {
 import "./App.css";
 
 import Header from "./components/Header.jsx";
-
+import Bookmarks from "./components/Bookmarks.jsx";
 import Home from "./components/Home.jsx";
 
 function App() {
@@ -21,9 +21,14 @@ function App() {
     setSnackbarVisible(true);
   }
 
+  const [page, setPage] = useState("home");
+
   return (<>
-    <Header appTitle='P1 MB' log ={openSnackbar}/>
-    <Home log={openSnackbar}/>
+    <Header appTitle='P1 MB' log ={openSnackbar} page ={page} setPage ={setPage} />
+
+      {page === "home" && <Home log={openSnackbar} />}
+      {page === "bookmarks" && <Bookmarks log={openSnackbar} />}
+      
     <Snackbar
       sx={{ zIndex: 99 }}
       open={snackbarVisible}
