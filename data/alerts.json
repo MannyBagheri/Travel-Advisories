@@ -1,0 +1,2988 @@
+[{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3e95"
+  },
+  "country_name": "Afghanistan",
+  "country_code": "AF",
+  "region": "Asia",
+  "sub_region": "Southern Asia",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3e96"
+  },
+  "country_name": "Åland Islands",
+  "country_code": "AX",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3e97"
+  },
+  "country_name": "Albania",
+  "country_code": "AL",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-21 01:10:38",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3e98"
+  },
+  "country_name": "Algeria",
+  "country_code": "DZ",
+  "region": "Africa",
+  "sub_region": "Northern Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3e99"
+  },
+  "country_name": "American Samoa",
+  "country_code": "AS",
+  "region": "Oceania",
+  "sub_region": "Polynesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-16 13:58:11",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3e9a"
+  },
+  "country_name": "Andorra",
+  "country_code": "AD",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:05",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3e9b"
+  },
+  "country_name": "Angola",
+  "country_code": "AO",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3e9c"
+  },
+  "country_name": "Anguilla",
+  "country_code": "AI",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-09 09:59:22",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3e9d"
+  },
+  "country_name": "Antarctica",
+  "country_code": "AQ",
+  "region": "",
+  "sub_region": "",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-20 13:50:32",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3e9e"
+  },
+  "country_name": "Antigua and Barbuda",
+  "country_code": "AG",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-16 14:24:44",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3e9f"
+  },
+  "country_name": "Argentina",
+  "country_code": "AR",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions (with regional advisories)",
+  "date": "2026-03-02 16:57:59",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ea0"
+  },
+  "country_name": "Armenia",
+  "country_code": "AM",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Exercise normal security precautions (with regional advisories)",
+  "date": "2026-03-13 10:37:54",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ea1"
+  },
+  "country_name": "Aruba",
+  "country_code": "AW",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:05",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ea2"
+  },
+  "country_name": "Australia",
+  "country_code": "AU",
+  "region": "Oceania",
+  "sub_region": "Australia and New Zealand",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-05 09:16:14",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ea3"
+  },
+  "country_name": "Austria",
+  "country_code": "AT",
+  "region": "Europe",
+  "sub_region": "Western Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 12:57:35",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ea4"
+  },
+  "country_name": "Azerbaijan",
+  "country_code": "AZ",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-05 15:04:51",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ea5"
+  },
+  "country_name": "Bahamas",
+  "country_code": "BS",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-06 16:32:12",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ea6"
+  },
+  "country_name": "Bahrain",
+  "country_code": "BH",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-16 13:18:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ea7"
+  },
+  "country_name": "Bangladesh",
+  "country_code": "BD",
+  "region": "Asia",
+  "sub_region": "Southern Asia",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-16 13:59:41",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ea8"
+  },
+  "country_name": "Barbados",
+  "country_code": "BB",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-12 11:29:19",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ea9"
+  },
+  "country_name": "Belarus",
+  "country_code": "BY",
+  "region": "Europe",
+  "sub_region": "Eastern Europe",
+  "advisory": "Avoid all travel",
+  "date": "2026-02-04 10:12:05",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eaa"
+  },
+  "country_name": "Belgium",
+  "country_code": "BE",
+  "region": "Europe",
+  "sub_region": "Western Europe",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-13 12:59:49",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eab"
+  },
+  "country_name": "Belize",
+  "country_code": "BZ",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-16 14:00:01",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eac"
+  },
+  "country_name": "Benin",
+  "country_code": "BJ",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ead"
+  },
+  "country_name": "Bermuda",
+  "country_code": "BM",
+  "region": "Americas",
+  "sub_region": "Northern America",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-06 17:03:58",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eae"
+  },
+  "country_name": "Bhutan",
+  "country_code": "BT",
+  "region": "Asia",
+  "sub_region": "Southern Asia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-11 15:05:10",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eaf"
+  },
+  "country_name": "Bolivia (Plurinational State of)",
+  "country_code": "BO",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-02-16 10:22:54",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eb0"
+  },
+  "country_name": "Bonaire, Sint Eustatius and Saba",
+  "country_code": "BQ",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eb1"
+  },
+  "country_name": "Bosnia and Herzegovina",
+  "country_code": "BA",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:05",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eb2"
+  },
+  "country_name": "Botswana",
+  "country_code": "BW",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:05",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eb3"
+  },
+  "country_name": "Bouvet Island",
+  "country_code": "BV",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eb4"
+  },
+  "country_name": "Brazil",
+  "country_code": "BR",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-04 14:19:26",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eb5"
+  },
+  "country_name": "British Indian Ocean Territory",
+  "country_code": "IO",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eb6"
+  },
+  "country_name": "Brunei Darussalam",
+  "country_code": "BN",
+  "region": "Asia",
+  "sub_region": "South-eastern Asia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-10 09:46:59",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eb7"
+  },
+  "country_name": "Bulgaria",
+  "country_code": "BG",
+  "region": "Europe",
+  "sub_region": "Eastern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 14:00:27",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eb8"
+  },
+  "country_name": "Burkina Faso",
+  "country_code": "BF",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eb9"
+  },
+  "country_name": "Burundi",
+  "country_code": "BI",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Avoid non-essential travel (with regional advisories)",
+  "date": "2026-02-04 10:12:05",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eba"
+  },
+  "country_name": "Cabo Verde",
+  "country_code": "CV",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:05",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ebb"
+  },
+  "country_name": "Cambodia",
+  "country_code": "KH",
+  "region": "Asia",
+  "sub_region": "South-eastern Asia",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-16 13:58:11",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ebc"
+  },
+  "country_name": "Cameroon",
+  "country_code": "CM",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ebd"
+  },
+  "country_name": "Canada",
+  "country_code": "CA",
+  "region": "Americas",
+  "sub_region": "Northern America",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ebe"
+  },
+  "country_name": "Cayman Islands",
+  "country_code": "KY",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-06 17:08:43",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ebf"
+  },
+  "country_name": "Central African Republic",
+  "country_code": "CF",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ec0"
+  },
+  "country_name": "Chad",
+  "country_code": "TD",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Avoid non-essential travel (with regional advisories)",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ec1"
+  },
+  "country_name": "Chile",
+  "country_code": "CL",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-10 15:59:40",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ec2"
+  },
+  "country_name": "China",
+  "country_code": "CN",
+  "region": "Asia",
+  "sub_region": "Eastern Asia",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-16 14:00:37",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ec3"
+  },
+  "country_name": "Christmas Island",
+  "country_code": "CX",
+  "region": "Oceania",
+  "sub_region": "Australia and New Zealand",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ec4"
+  },
+  "country_name": "Cocos (Keeling) Islands",
+  "country_code": "CC",
+  "region": "Oceania",
+  "sub_region": "Australia and New Zealand",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ec5"
+  },
+  "country_name": "Colombia",
+  "country_code": "CO",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-16 15:48:56",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ec6"
+  },
+  "country_name": "Comoros",
+  "country_code": "KM",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:05",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ec7"
+  },
+  "country_name": "Congo",
+  "country_code": "CG",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-13 12:57:53",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ec8"
+  },
+  "country_name": "Congo, Democratic Republic of the",
+  "country_code": "CD",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Avoid non-essential travel (with regional advisories)",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ec9"
+  },
+  "country_name": "Cook Islands",
+  "country_code": "CK",
+  "region": "Oceania",
+  "sub_region": "Polynesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-16 13:58:11",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eca"
+  },
+  "country_name": "Costa Rica",
+  "country_code": "CR",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:05",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ecb"
+  },
+  "country_name": "Côte d'Ivoire",
+  "country_code": "CI",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ecc"
+  },
+  "country_name": "Croatia",
+  "country_code": "HR",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 13:05:00",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ecd"
+  },
+  "country_name": "Cuba",
+  "country_code": "CU",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Avoid non-essential travel",
+  "date": "2026-03-16 13:58:11",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ece"
+  },
+  "country_name": "Curaçao",
+  "country_code": "CW",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ecf"
+  },
+  "country_name": "Cyprus",
+  "country_code": "CY",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-13 13:06:50",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ed0"
+  },
+  "country_name": "Czechia",
+  "country_code": "CZ",
+  "region": "Europe",
+  "sub_region": "Eastern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 13:08:33",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ed1"
+  },
+  "country_name": "Denmark",
+  "country_code": "DK",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-13 13:10:50",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ed2"
+  },
+  "country_name": "Djibouti",
+  "country_code": "DJ",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ed3"
+  },
+  "country_name": "Dominica",
+  "country_code": "DM",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-09 09:51:22",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ed4"
+  },
+  "country_name": "Dominican Republic",
+  "country_code": "DO",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-04 10:47:26",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ed5"
+  },
+  "country_name": "Ecuador",
+  "country_code": "EC",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-13 14:33:14",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ed6"
+  },
+  "country_name": "Egypt",
+  "country_code": "EG",
+  "region": "Africa",
+  "sub_region": "Northern Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-02-27 20:44:15",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ed7"
+  },
+  "country_name": "El Salvador",
+  "country_code": "SV",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-16 16:09:51",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ed8"
+  },
+  "country_name": "Equatorial Guinea",
+  "country_code": "GQ",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ed9"
+  },
+  "country_name": "Eritrea",
+  "country_code": "ER",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Avoid non-essential travel (with regional advisories)",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eda"
+  },
+  "country_name": "Estonia",
+  "country_code": "EE",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 14:02:52",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3edb"
+  },
+  "country_name": "Eswatini",
+  "country_code": "SZ",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3edc"
+  },
+  "country_name": "Ethiopia",
+  "country_code": "ET",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Avoid non-essential travel (with regional advisories)",
+  "date": "2026-03-10 15:54:17",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3edd"
+  },
+  "country_name": "Falkland Islands (Malvinas)",
+  "country_code": "FK",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ede"
+  },
+  "country_name": "Faroe Islands",
+  "country_code": "FO",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3edf"
+  },
+  "country_name": "Fiji",
+  "country_code": "FJ",
+  "region": "Oceania",
+  "sub_region": "Melanesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-16 16:27:20",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ee0"
+  },
+  "country_name": "Finland",
+  "country_code": "FI",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 13:12:10",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ee1"
+  },
+  "country_name": "France",
+  "country_code": "FR",
+  "region": "Europe",
+  "sub_region": "Western Europe",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-13 13:15:00",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ee2"
+  },
+  "country_name": "French Guiana",
+  "country_code": "GF",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ee3"
+  },
+  "country_name": "French Polynesia",
+  "country_code": "PF",
+  "region": "Oceania",
+  "sub_region": "Polynesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ee4"
+  },
+  "country_name": "French Southern Territories",
+  "country_code": "TF",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ee5"
+  },
+  "country_name": "Gabon",
+  "country_code": "GA",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ee6"
+  },
+  "country_name": "Gambia",
+  "country_code": "GM",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ee7"
+  },
+  "country_name": "Georgia",
+  "country_code": "GE",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Exercise normal security precautions (with regional advisories)",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ee8"
+  },
+  "country_name": "Germany",
+  "country_code": "DE",
+  "region": "Europe",
+  "sub_region": "Western Europe",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-13 13:16:43",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ee9"
+  },
+  "country_name": "Ghana",
+  "country_code": "GH",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-09 16:16:10",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eea"
+  },
+  "country_name": "Gibraltar",
+  "country_code": "GI",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eeb"
+  },
+  "country_name": "Greece",
+  "country_code": "GR",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 13:25:46",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eec"
+  },
+  "country_name": "Greenland",
+  "country_code": "GL",
+  "region": "Americas",
+  "sub_region": "Northern America",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 13:18:15",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eed"
+  },
+  "country_name": "Grenada",
+  "country_code": "GD",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-09 09:55:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eee"
+  },
+  "country_name": "Guadeloupe",
+  "country_code": "GP",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-16 14:45:22",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eef"
+  },
+  "country_name": "Guam",
+  "country_code": "GU",
+  "region": "Oceania",
+  "sub_region": "Micronesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-06 16:52:16",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ef0"
+  },
+  "country_name": "Guatemala",
+  "country_code": "GT",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-16 14:01:09",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ef1"
+  },
+  "country_name": "Guernsey",
+  "country_code": "GG",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ef2"
+  },
+  "country_name": "Guinea",
+  "country_code": "GN",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ef3"
+  },
+  "country_name": "Guinea-Bissau",
+  "country_code": "GW",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ef4"
+  },
+  "country_name": "Guyana",
+  "country_code": "GY",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-16 13:58:11",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ef5"
+  },
+  "country_name": "Haiti",
+  "country_code": "HT",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Avoid all travel",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ef6"
+  },
+  "country_name": "Heard Island and McDonald Islands",
+  "country_code": "HM",
+  "region": "Oceania",
+  "sub_region": "Australia and New Zealand",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ef7"
+  },
+  "country_name": "Holy See",
+  "country_code": "VA",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ef8"
+  },
+  "country_name": "Honduras",
+  "country_code": "HN",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3ef9"
+  },
+  "country_name": "Hong Kong",
+  "country_code": "HK",
+  "region": "Asia",
+  "sub_region": "Eastern Asia",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-10 09:46:59",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3efa"
+  },
+  "country_name": "Hungary",
+  "country_code": "HU",
+  "region": "Europe",
+  "sub_region": "Eastern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 13:19:50",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3efb"
+  },
+  "country_name": "Iceland",
+  "country_code": "IS",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3efc"
+  },
+  "country_name": "India",
+  "country_code": "IN",
+  "region": "Asia",
+  "sub_region": "Southern Asia",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-02-27 11:11:27",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3efd"
+  },
+  "country_name": "Indonesia",
+  "country_code": "ID",
+  "region": "Asia",
+  "sub_region": "South-eastern Asia",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-16 12:11:18",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3efe"
+  },
+  "country_name": "Iran (Islamic Republic of)",
+  "country_code": "IR",
+  "region": "Asia",
+  "sub_region": "Southern Asia",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-04 15:14:29",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3eff"
+  },
+  "country_name": "Iraq",
+  "country_code": "IQ",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-05 15:47:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f00"
+  },
+  "country_name": "Ireland",
+  "country_code": "IE",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 13:21:38",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f01"
+  },
+  "country_name": "Isle of Man",
+  "country_code": "IM",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f02"
+  },
+  "country_name": "Israel",
+  "country_code": "IL",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-16 11:29:51",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f03"
+  },
+  "country_name": "Italy",
+  "country_code": "IT",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-16 14:09:16",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f04"
+  },
+  "country_name": "Jamaica",
+  "country_code": "JM",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-06 16:44:19",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f05"
+  },
+  "country_name": "Japan",
+  "country_code": "JP",
+  "region": "Asia",
+  "sub_region": "Eastern Asia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 09:29:59",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f06"
+  },
+  "country_name": "Jersey",
+  "country_code": "JE",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f07"
+  },
+  "country_name": "Jordan",
+  "country_code": "JO",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Avoid non-essential travel (with regional advisories)",
+  "date": "2026-03-13 19:23:17",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f08"
+  },
+  "country_name": "Kazakhstan",
+  "country_code": "KZ",
+  "region": "Asia",
+  "sub_region": "Central Asia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f09"
+  },
+  "country_name": "Kenya",
+  "country_code": "KE",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f0a"
+  },
+  "country_name": "Kiribati",
+  "country_code": "KI",
+  "region": "Oceania",
+  "sub_region": "Micronesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-16 13:58:11",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f0b"
+  },
+  "country_name": "Korea (Democratic People's Republic of)",
+  "country_code": "KP",
+  "region": "Asia",
+  "sub_region": "Eastern Asia",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-10 09:46:59",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f0c"
+  },
+  "country_name": "Korea, Republic of",
+  "country_code": "KR",
+  "region": "Asia",
+  "sub_region": "Eastern Asia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 09:30:56",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f0d"
+  },
+  "country_name": "Kuwait",
+  "country_code": "KW",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-16 13:15:18",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f0e"
+  },
+  "country_name": "Kyrgyzstan",
+  "country_code": "KG",
+  "region": "Asia",
+  "sub_region": "Central Asia",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f0f"
+  },
+  "country_name": "Lao People's Democratic Republic",
+  "country_code": "LA",
+  "region": "Asia",
+  "sub_region": "South-eastern Asia",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-09 16:16:57",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f10"
+  },
+  "country_name": "Latvia",
+  "country_code": "LV",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 14:05:22",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f11"
+  },
+  "country_name": "Lebanon",
+  "country_code": "LB",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-13 10:50:53",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f12"
+  },
+  "country_name": "Lesotho",
+  "country_code": "LS",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f13"
+  },
+  "country_name": "Liberia",
+  "country_code": "LR",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f14"
+  },
+  "country_name": "Libya",
+  "country_code": "LY",
+  "region": "Africa",
+  "sub_region": "Northern Africa",
+  "advisory": "Avoid all travel",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f15"
+  },
+  "country_name": "Liechtenstein",
+  "country_code": "LI",
+  "region": "Europe",
+  "sub_region": "Western Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 13:28:18",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f16"
+  },
+  "country_name": "Lithuania",
+  "country_code": "LT",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 13:30:57",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f17"
+  },
+  "country_name": "Luxembourg",
+  "country_code": "LU",
+  "region": "Europe",
+  "sub_region": "Western Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 14:10:56",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f18"
+  },
+  "country_name": "Macao",
+  "country_code": "MO",
+  "region": "Asia",
+  "sub_region": "Eastern Asia",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f19"
+  },
+  "country_name": "Madagascar",
+  "country_code": "MG",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-11 12:53:59",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f1a"
+  },
+  "country_name": "Malawi",
+  "country_code": "MW",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f1b"
+  },
+  "country_name": "Malaysia",
+  "country_code": "MY",
+  "region": "Asia",
+  "sub_region": "South-eastern Asia",
+  "advisory": "Exercise normal security precautions (with regional advisories)",
+  "date": "2026-03-11 11:53:43",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f1c"
+  },
+  "country_name": "Maldives",
+  "country_code": "MV",
+  "region": "Asia",
+  "sub_region": "Southern Asia",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f1d"
+  },
+  "country_name": "Mali",
+  "country_code": "ML",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-16 13:58:11",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f1e"
+  },
+  "country_name": "Malta",
+  "country_code": "MT",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 13:34:09",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f1f"
+  },
+  "country_name": "Marshall Islands",
+  "country_code": "MH",
+  "region": "Oceania",
+  "sub_region": "Micronesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f20"
+  },
+  "country_name": "Martinique",
+  "country_code": "MQ",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-11 15:37:55",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f21"
+  },
+  "country_name": "Mauritania",
+  "country_code": "MR",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Avoid non-essential travel (with regional advisories)",
+  "date": "2026-02-16 09:55:12",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f22"
+  },
+  "country_name": "Mauritius",
+  "country_code": "MU",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-11 09:10:16",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f23"
+  },
+  "country_name": "Mayotte",
+  "country_code": "YT",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f24"
+  },
+  "country_name": "Mexico",
+  "country_code": "MX",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-11 15:10:43",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f25"
+  },
+  "country_name": "Micronesia (Federated States of)",
+  "country_code": "FM",
+  "region": "Oceania",
+  "sub_region": "Micronesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f26"
+  },
+  "country_name": "Moldova, Republic of",
+  "country_code": "MD",
+  "region": "Europe",
+  "sub_region": "Eastern Europe",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-10 16:17:19",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f27"
+  },
+  "country_name": "Monaco",
+  "country_code": "MC",
+  "region": "Europe",
+  "sub_region": "Western Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f28"
+  },
+  "country_name": "Mongolia",
+  "country_code": "MN",
+  "region": "Asia",
+  "sub_region": "Eastern Asia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-10 09:46:59",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f29"
+  },
+  "country_name": "Montenegro",
+  "country_code": "ME",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f2a"
+  },
+  "country_name": "Montserrat",
+  "country_code": "MS",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-09 09:58:26",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f2b"
+  },
+  "country_name": "Morocco",
+  "country_code": "MA",
+  "region": "Africa",
+  "sub_region": "Northern Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-02-17 08:12:04",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f2c"
+  },
+  "country_name": "Mozambique",
+  "country_code": "MZ",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-02-16 13:57:16",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f2d"
+  },
+  "country_name": "Myanmar",
+  "country_code": "MM",
+  "region": "Asia",
+  "sub_region": "South-eastern Asia",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-16 16:24:52",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f2e"
+  },
+  "country_name": "Namibia",
+  "country_code": "NA",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-09 16:14:39",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f2f"
+  },
+  "country_name": "Nauru",
+  "country_code": "NR",
+  "region": "Oceania",
+  "sub_region": "Micronesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-16 14:01:38",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f30"
+  },
+  "country_name": "Nepal",
+  "country_code": "NP",
+  "region": "Asia",
+  "sub_region": "Southern Asia",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-16 11:31:38",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f31"
+  },
+  "country_name": "Netherlands",
+  "country_code": "NL",
+  "region": "Europe",
+  "sub_region": "Western Europe",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-13 13:37:55",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f32"
+  },
+  "country_name": "New Caledonia",
+  "country_code": "NC",
+  "region": "Oceania",
+  "sub_region": "Melanesia",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-16 14:02:49",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f33"
+  },
+  "country_name": "New Zealand",
+  "country_code": "NZ",
+  "region": "Oceania",
+  "sub_region": "Australia and New Zealand",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-10 15:42:07",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f34"
+  },
+  "country_name": "Nicaragua",
+  "country_code": "NI",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-24 10:55:15",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f35"
+  },
+  "country_name": "Niger",
+  "country_code": "NE",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f36"
+  },
+  "country_name": "Nigeria",
+  "country_code": "NG",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Avoid non-essential travel (with regional advisories)",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f37"
+  },
+  "country_name": "Niue",
+  "country_code": "NU",
+  "region": "Oceania",
+  "sub_region": "Polynesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f38"
+  },
+  "country_name": "Norfolk Island",
+  "country_code": "NF",
+  "region": "Oceania",
+  "sub_region": "Australia and New Zealand",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f39"
+  },
+  "country_name": "North Macedonia",
+  "country_code": "MK",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f3a"
+  },
+  "country_name": "Northern Mariana Islands",
+  "country_code": "MP",
+  "region": "Oceania",
+  "sub_region": "Micronesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-06 16:57:51",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f3b"
+  },
+  "country_name": "Norway",
+  "country_code": "NO",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 13:39:19",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f3c"
+  },
+  "country_name": "Oman",
+  "country_code": "OM",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Avoid non-essential travel",
+  "date": "2026-03-16 13:21:52",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f3d"
+  },
+  "country_name": "Pakistan",
+  "country_code": "PK",
+  "region": "Asia",
+  "sub_region": "Southern Asia",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-16 13:58:11",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f3e"
+  },
+  "country_name": "Palau",
+  "country_code": "PW",
+  "region": "Oceania",
+  "sub_region": "Micronesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f3f"
+  },
+  "country_name": "Palestine, State of",
+  "country_code": "PS",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f40"
+  },
+  "country_name": "Panama",
+  "country_code": "PA",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions (with regional advisories)",
+  "date": "2026-03-16 14:01:58",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f41"
+  },
+  "country_name": "Papua New Guinea",
+  "country_code": "PG",
+  "region": "Oceania",
+  "sub_region": "Melanesia",
+  "advisory": "Avoid non-essential travel",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f42"
+  },
+  "country_name": "Paraguay",
+  "country_code": "PY",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-20 09:43:16",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f43"
+  },
+  "country_name": "Peru",
+  "country_code": "PE",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-03 14:45:23",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f44"
+  },
+  "country_name": "Philippines",
+  "country_code": "PH",
+  "region": "Asia",
+  "sub_region": "South-eastern Asia",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-16 13:58:11",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f45"
+  },
+  "country_name": "Pitcairn",
+  "country_code": "PN",
+  "region": "Oceania",
+  "sub_region": "Polynesia",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f46"
+  },
+  "country_name": "Poland",
+  "country_code": "PL",
+  "region": "Europe",
+  "sub_region": "Eastern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 13:41:28",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f47"
+  },
+  "country_name": "Portugal",
+  "country_code": "PT",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 14:12:58",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f48"
+  },
+  "country_name": "Puerto Rico",
+  "country_code": "PR",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-16 13:58:11",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f49"
+  },
+  "country_name": "Qatar",
+  "country_code": "QA",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-14 00:31:41",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f4a"
+  },
+  "country_name": "Réunion",
+  "country_code": "RE",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f4b"
+  },
+  "country_name": "Romania",
+  "country_code": "RO",
+  "region": "Europe",
+  "sub_region": "Eastern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 14:16:18",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f4c"
+  },
+  "country_name": "Russian Federation",
+  "country_code": "RU",
+  "region": "Europe",
+  "sub_region": "Eastern Europe",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-05 15:16:47",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f4d"
+  },
+  "country_name": "Rwanda",
+  "country_code": "RW",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise normal security precautions (with regional advisories)",
+  "date": "2026-02-05 09:03:13",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f4e"
+  },
+  "country_name": "Saint Barthélemy",
+  "country_code": "BL",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f4f"
+  },
+  "country_name": "Saint Helena, Ascension and Tristan da Cunha",
+  "country_code": "SH",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f50"
+  },
+  "country_name": "Saint Kitts and Nevis",
+  "country_code": "KN",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-09 10:02:04",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f51"
+  },
+  "country_name": "Saint Lucia",
+  "country_code": "LC",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 10:01:14",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f52"
+  },
+  "country_name": "Saint Martin (French part)",
+  "country_code": "MF",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f53"
+  },
+  "country_name": "Saint Pierre and Miquelon",
+  "country_code": "PM",
+  "region": "Americas",
+  "sub_region": "Northern America",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f54"
+  },
+  "country_name": "Saint Vincent and the Grenadines",
+  "country_code": "VC",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-09 10:07:33",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f55"
+  },
+  "country_name": "Samoa",
+  "country_code": "WS",
+  "region": "Oceania",
+  "sub_region": "Polynesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-16 13:58:11",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f56"
+  },
+  "country_name": "San Marino",
+  "country_code": "SM",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f57"
+  },
+  "country_name": "Sao Tome and Principe",
+  "country_code": "ST",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f58"
+  },
+  "country_name": "Saudi Arabia",
+  "country_code": "SA",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Avoid non-essential travel (with regional advisories)",
+  "date": "2026-03-16 13:11:47",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f59"
+  },
+  "country_name": "Senegal",
+  "country_code": "SN",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-16 13:58:11",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f5a"
+  },
+  "country_name": "Serbia",
+  "country_code": "RS",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "Exercise normal security precautions (with regional advisories)",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f5b"
+  },
+  "country_name": "Seychelles",
+  "country_code": "SC",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-16 10:22:15",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f5c"
+  },
+  "country_name": "Sierra Leone",
+  "country_code": "SL",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f5d"
+  },
+  "country_name": "Singapore",
+  "country_code": "SG",
+  "region": "Asia",
+  "sub_region": "South-eastern Asia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-10 09:46:59",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f5e"
+  },
+  "country_name": "Sint Maarten (Dutch part)",
+  "country_code": "SX",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 09:08:58",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f5f"
+  },
+  "country_name": "Slovakia",
+  "country_code": "SK",
+  "region": "Europe",
+  "sub_region": "Eastern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 13:46:31",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f60"
+  },
+  "country_name": "Slovenia",
+  "country_code": "SI",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 13:48:02",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f61"
+  },
+  "country_name": "Solomon Islands",
+  "country_code": "SB",
+  "region": "Oceania",
+  "sub_region": "Melanesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f62"
+  },
+  "country_name": "Somalia",
+  "country_code": "SO",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f63"
+  },
+  "country_name": "South Africa",
+  "country_code": "ZA",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-11 09:12:46",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f64"
+  },
+  "country_name": "South Georgia and the South Sandwich Islands",
+  "country_code": "GS",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f65"
+  },
+  "country_name": "South Sudan",
+  "country_code": "SS",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f66"
+  },
+  "country_name": "Spain",
+  "country_code": "ES",
+  "region": "Europe",
+  "sub_region": "Southern Europe",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-13 13:49:36",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f67"
+  },
+  "country_name": "Sri Lanka",
+  "country_code": "LK",
+  "region": "Asia",
+  "sub_region": "Southern Asia",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-03 16:23:55",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f68"
+  },
+  "country_name": "Sudan",
+  "country_code": "SD",
+  "region": "Africa",
+  "sub_region": "Northern Africa",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-16 13:58:11",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f69"
+  },
+  "country_name": "Suriname",
+  "country_code": "SR",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-12 11:35:56",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f6a"
+  },
+  "country_name": "Svalbard and Jan Mayen",
+  "country_code": "SJ",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f6b"
+  },
+  "country_name": "Sweden",
+  "country_code": "SE",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-13 13:55:14",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f6c"
+  },
+  "country_name": "Switzerland",
+  "country_code": "CH",
+  "region": "Europe",
+  "sub_region": "Western Europe",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-13 14:18:37",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f6d"
+  },
+  "country_name": "Syrian Arab Republic",
+  "country_code": "SY",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Avoid all travel",
+  "date": "2026-02-28 03:51:50",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f6e"
+  },
+  "country_name": "Taiwan, Province of China",
+  "country_code": "TW",
+  "region": "Asia",
+  "sub_region": "Eastern Asia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-10 09:46:59",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f6f"
+  },
+  "country_name": "Tajikistan",
+  "country_code": "TJ",
+  "region": "Asia",
+  "sub_region": "Central Asia",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f70"
+  },
+  "country_name": "Tanzania, United Republic of",
+  "country_code": "TZ",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f71"
+  },
+  "country_name": "Thailand",
+  "country_code": "TH",
+  "region": "Asia",
+  "sub_region": "South-eastern Asia",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-02-24 10:13:29",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f72"
+  },
+  "country_name": "Timor-Leste",
+  "country_code": "TL",
+  "region": "Asia",
+  "sub_region": "South-eastern Asia",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-16 13:58:11",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f73"
+  },
+  "country_name": "Togo",
+  "country_code": "TG",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f74"
+  },
+  "country_name": "Tokelau",
+  "country_code": "TK",
+  "region": "Oceania",
+  "sub_region": "Polynesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f75"
+  },
+  "country_name": "Tonga",
+  "country_code": "TO",
+  "region": "Oceania",
+  "sub_region": "Polynesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f76"
+  },
+  "country_name": "Trinidad and Tobago",
+  "country_code": "TT",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-09 11:07:59",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f77"
+  },
+  "country_name": "Tunisia",
+  "country_code": "TN",
+  "region": "Africa",
+  "sub_region": "Northern Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f78"
+  },
+  "country_name": "Turkey",
+  "country_code": "TR",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-03-16 08:54:56",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f79"
+  },
+  "country_name": "Turkmenistan",
+  "country_code": "TM",
+  "region": "Asia",
+  "sub_region": "Central Asia",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f7a"
+  },
+  "country_name": "Turks and Caicos Islands",
+  "country_code": "TC",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-02-06 17:12:30",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f7b"
+  },
+  "country_name": "Tuvalu",
+  "country_code": "TV",
+  "region": "Oceania",
+  "sub_region": "Polynesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-16 13:58:11",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f7c"
+  },
+  "country_name": "Uganda",
+  "country_code": "UG",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution (with regional advisories)",
+  "date": "2026-02-10 15:18:28",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f7d"
+  },
+  "country_name": "Ukraine",
+  "country_code": "UA",
+  "region": "Europe",
+  "sub_region": "Eastern Europe",
+  "advisory": "Avoid all travel",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f7e"
+  },
+  "country_name": "United Arab Emirates",
+  "country_code": "AE",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-13 20:47:49",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f7f"
+  },
+  "country_name": "United Kingdom of Great Britain and Northern Ireland",
+  "country_code": "GB",
+  "region": "Europe",
+  "sub_region": "Northern Europe",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f80"
+  },
+  "country_name": "United States of America",
+  "country_code": "US",
+  "region": "Americas",
+  "sub_region": "Northern America",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-03-04 14:12:02",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f81"
+  },
+  "country_name": "United States Minor Outlying Islands",
+  "country_code": "UM",
+  "region": "Oceania",
+  "sub_region": "Micronesia",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f82"
+  },
+  "country_name": "Uruguay",
+  "country_code": "UY",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions (with regional advisories)",
+  "date": "2026-03-05 11:23:32",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f83"
+  },
+  "country_name": "Uzbekistan",
+  "country_code": "UZ",
+  "region": "Asia",
+  "sub_region": "Central Asia",
+  "advisory": "Exercise normal security precautions (with regional advisories)",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f84"
+  },
+  "country_name": "Vanuatu",
+  "country_code": "VU",
+  "region": "Oceania",
+  "sub_region": "Melanesia",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f85"
+  },
+  "country_name": "Venezuela (Bolivarian Republic of)",
+  "country_code": "VE",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-09 14:08:48",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f86"
+  },
+  "country_name": "Viet Nam",
+  "country_code": "VN",
+  "region": "Asia",
+  "sub_region": "South-eastern Asia",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-16 14:02:19",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f87"
+  },
+  "country_name": "Virgin Islands (British)",
+  "country_code": "VG",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-09 09:46:00",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f88"
+  },
+  "country_name": "Virgin Islands (U.S.)",
+  "country_code": "VI",
+  "region": "Americas",
+  "sub_region": "Latin America and the Caribbean",
+  "advisory": "Exercise normal security precautions",
+  "date": "2026-02-06 17:02:14",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f89"
+  },
+  "country_name": "Wallis and Futuna",
+  "country_code": "WF",
+  "region": "Oceania",
+  "sub_region": "Polynesia",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f8a"
+  },
+  "country_name": "Western Sahara",
+  "country_code": "EH",
+  "region": "Africa",
+  "sub_region": "Northern Africa",
+  "advisory": "",
+  "date": "",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f8b"
+  },
+  "country_name": "Yemen",
+  "country_code": "YE",
+  "region": "Asia",
+  "sub_region": "Western Asia",
+  "advisory": "Avoid all travel",
+  "date": "2026-03-09 15:46:24",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f8c"
+  },
+  "country_name": "Zambia",
+  "country_code": "ZM",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise normal security precautions (with regional advisories)",
+  "date": "2026-02-04 10:12:06",
+  "bookmarked": false
+},
+{
+  "_id": {
+    "$oid": "69b89bf55c242b2b265b3f8d"
+  },
+  "country_name": "Zimbabwe",
+  "country_code": "ZW",
+  "region": "Africa",
+  "sub_region": "Sub-Saharan Africa",
+  "advisory": "Exercise a high degree of caution",
+  "date": "2026-03-10 09:41:48",
+  "bookmarked": false
+}]
