@@ -1,74 +1,94 @@
-const API_IP = 'http://localhost';
-const API_PORT = 9000;
-
 const headers = {
-    // https://www.rfc-editor.org/rfc/rfc7231#section-5.3.2
-    // https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept
-    'Accept': '*/*',
-    // https://www.rfc-editor.org/rfc/rfc7231#section-3.1.1.5
-    // https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
-    'Content-Type': 'application/json'
-}
+  Accept: "*/*",
+  "Content-Type": "application/json"
+};
 
-const serverRoute = (route) => `${API_IP}:${API_PORT}/${route}`;
+const STORAGE_KEY = "travel-advisories-bookmarks";
+
+const getAllAlerts = async () => {
+  const response = await fetch(`${import.meta.env.BASE_URL}data/alerts.json`, {
+    headers,
+    method: "GET"
+  });
+
+  if (!response.ok) return [];
+
+  return await response.json();
+};
+
+const readLocalBookmarks = () => {
+  return JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]");
+};
+
+const writeLocalBookmarks = (items) => {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(items));
+};
 
 const alerts = {
-    getSearchData: async () => {
-        let response = await fetch(serverRoute("alerts"), {
-            headers,
-            method: 'GET'
+  getSearchData: async () => {
+    const data = await getAllAlerts();
+    const bookmarks = readLocalBookmarks();
+    const bookmarkedCodes = new Set(bookmarks.map(item => item.country_code));
+
+    return data.map(item => ({
+      ...item,
+      bookmarked: bookmarkedCodes.has(item.country_code)
+    }));
+  },
+
+  getOne: async (code) => {
+    const data = await getAllAlerts();
+    const found = data.find(item => item.country_code === code);
+    if (!found) return null;
+
+    const bookmarks = readLocalBookmarks();
+    const bookmarked = bookmarks.some(item => item.country_code === code);
+
+    return {
+      ...found,
+      bookmarked
+    };
+  },
+
+  setBookmark: async (code, bookmarked) => {
+    const data = await getAllAlerts();
+    const found = data.find(item => item.country_code === code);
+
+    if (!found) {
+      return { ok: false };
+    }
+
+    let bookmarks = readLocalBookmarks();
+
+    if (bookmarked) {
+      const exists = bookmarks.some(item => item.country_code === code);
+      if (!exists) {
+        bookmarks.unshift({
+          ...found,
+          bookmarked: true,
+          bookmarked_at: new Date().toISOString()
         });
-        let data = await response.json();
-        return data;
-    },
+      }
+    } else {
+      bookmarks = bookmarks.filter(item => item.country_code !== code);
+    }
 
-    getOne: async (code) => {
-    let response = await fetch(serverRoute(`alerts/${code}`), {
-      headers,
-      method: 'GET'
-    });
-
-
-    if (!response.ok) return null;
-
-        let data = await response.json();
-        return data;
-    },
-
-    setBookmark: async (code, bookmarked) => {
-    let response = await fetch(serverRoute(`alerts/${code}/bookmark`), {
-      headers,
-      method: 'POST',
-      body: JSON.stringify({ bookmarked })
-    });
-
-    return response;
+    writeLocalBookmarks(bookmarks);
+    return { ok: true };
   },
 
   getBookmarks: async () => {
-    let response = await fetch(serverRoute("bookmarks"), {
-      headers,
-      method: 'GET'
-    });
-
-    if (!response.ok) return [];
-
-    let data = await response.json();
-    return data;
+    return readLocalBookmarks();
   }
-}
+};
 
 const util = {
-    refreshDatabase: async () => {
-        let response = await fetch(serverRoute("db/refresh"), {
-            headers,
-            method: 'POST'
-        });
-        return response;
-    }
-}
+  refreshDatabase: async () => {
+    return { ok: true };
+  }
+};
 
 export {
-    util,
-    alerts,
-}
+  util,
+  alerts
+};

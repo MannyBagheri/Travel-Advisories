@@ -14,8 +14,8 @@ import BookmarkIcon from '@mui/icons-material/Bookmark';
 import Search from "./Search";
 import Alert from "./Alert";
 
-import logo from "../assets/target.png";
-//import logo from "../assets/airplane.png";
+//import logo from "../assets/target.png";
+import logo from "../assets/airplane.png";
 
 import * as api from "../util/api"
 
@@ -73,7 +73,7 @@ const Home = (props) => {
             <img src={logo} style={{ width: "40%", maxWidth: "200px", margin: "1em" }} />
             <CardHeader title="Travel Alerts" />
             <CardContent>
-                <Search alerts={alerts} onSelection={setSelectedAlert} />
+                <Search alerts={alerts} onSelection={onSelect} />
             </CardContent>
         </Paper>
 

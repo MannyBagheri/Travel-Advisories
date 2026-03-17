@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import {
-  Snackbar
+  Snackbar, createTheme, ThemeProvider
 } from "@mui/material";
 
 import "./App.css";
@@ -21,14 +21,16 @@ function App() {
     setSnackbarVisible(true);
   }
 
+  const theme = createTheme({ palette: { primary: { main: "#051f39", contrastText: "#ff8e80"}}});
+
   const [page, setPage] = useState("home");
 
-  return (<>
-    <Header appTitle='P1 MB' log ={openSnackbar} page ={page} setPage ={setPage} />
+  return (<ThemeProvider theme={theme}>
+    <Header appTitle='Travel Advisories ' log ={openSnackbar} page ={page} setPage ={setPage} />
 
       {page === "home" && <Home log={openSnackbar} />}
       {page === "bookmarks" && <Bookmarks log={openSnackbar} />}
-      
+
     <Snackbar
       sx={{ zIndex: 99 }}
       open={snackbarVisible}
@@ -36,7 +38,7 @@ function App() {
       onClose={closeSnackbar}
       message={snackbarMessage}
     />
-  </>);
+  </ThemeProvider>);
 };
 
 export default App;
